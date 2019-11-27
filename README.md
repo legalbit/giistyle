@@ -12,7 +12,7 @@ Skript (Javascript-Bookmarklet), das die "[Gesetze im Internet]" (halbwegs) anst
 Kopieren Sie den kompletten Code der *giistyle.js* als URL in ein Lesezeichen, 
 wie [in dieser Anleitung](https://mreidsma.github.io/bookmarklets/installing.html) beschrieben. 
 
-Öffnen Sie eine Vorschrift, z. B. [§ 129a StGB]. Klicken Sie jetzt auf das Lesezeichen.
+Öffnen Sie eine Vorschrift, z. B. [§ 170 StGB]. Klicken Sie jetzt auf das Lesezeichen.
 
 Die Verwendung auf Mobilgeräten ist (leider) nicht möglich.
 
@@ -22,4 +22,4 @@ Schreiben Sie mir gerne, wenn Sie Fragen, Anregungen haben: https://github.com/l
 
 
 [Gesetze im Internet]: https://www.gesetze-im-internet.de/
-[§ 129a StGB]: https://www.gesetze-im-internet.de/stgb/__129a.html
+[§ 170 StGB]: https://www.gesetze-im-internet.de/stgb/__129a.html
