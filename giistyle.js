@@ -111,6 +111,7 @@ javascript:(
                 grid-template-columns: 2em calc(100% - 2em);
                 margin-top: 0.5em;
                 margin-right: 1em;
+                margin-bottom: 0;
                 text-indent: 0;
              }
              dt, dd {
