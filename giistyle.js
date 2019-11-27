@@ -122,6 +122,9 @@ javascript:(
                  font-size: 0.8em;
                  margin-top: 4em;
              }
+             .jnfussnote h4 {
+                 margin-left: 1em;
+             }
 
              #level2 table a {
                  color: #343231;
