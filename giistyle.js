@@ -17,9 +17,13 @@ javascript:(
                 margin: .5em; 
             }
             a {
-                font-family: sans-serif;
                 color: #235FE9;
                 text-decoration: none;
+            }
+            .jnheader a,
+            #fusszeile a,
+            #blaettercontainer_12793 a {
+                font-family: sans-serif;
             }
             a:hover {
                 text-decoration: underline;
