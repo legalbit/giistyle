@@ -18,7 +18,7 @@ Die Verwendung auf Mobilgeräten ist (leider) nicht möglich.
 
 ## Fragen, Anregungen, Fehler
 
-Schreiben Sie mir gerne, wenn Sie Fragen, Anregungen haben: https://github.com/legalbit/giistyle/issues 
+Schreiben Sie mir gerne, wenn Sie Fragen oder Anregungen haben: https://github.com/legalbit/giistyle/issues 
 
 
 [Gesetze im Internet]: https://www.gesetze-im-internet.de/
